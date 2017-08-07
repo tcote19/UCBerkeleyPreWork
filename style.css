@@ -1,0 +1,40 @@
+.redText1 {
+	color: red;
+}
+.blueText1 {
+	color: blue;
+}
+.greenText1 {
+	color: green;
+}
+.bigText1 {
+	font-size: 40px;
+}
+.tinyText1 {
+	font-size: 10px;
+}
+.cntrText1 {
+	text-align: center;
+}
+.boldText1 {
+	font-weight: bold;
+}
+.newFont1 {
+	font-family: helvetica;
+}
+.multiAttribute1 {
+	font-size: 40px;
+	color: orange;
+	font-weight: bold;
+}
+.styledFont {
+	color: green;
+}
+#styledImage {
+	border: 5px solid orange;
+}
+
+
+
+
+
